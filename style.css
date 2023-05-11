@@ -69,23 +69,22 @@ color: #000;
   padding: 10px 15px;
   color: white;
   font-weight: bold;
-  display: inline-block;
-  margin-left: 40%;
-justify-content: space-between;
+  display: block;
+  margin: 0 auto;
+
 
 }
 #dark-mode-btn {
-  background-color: rgb(59, 59, 60);
+  background-color: rgb(71, 70, 75);
   border: 1px salmon;
   border-radius: 10px;
   cursor: pointer;
   padding: 10px 15px;
   color: white;
   font-weight: bold;
-  display: inline-block;
-  margin-left: 5px;
-  
-
+  display: block;
+  top: 200px;
+  margin: 0 auto;
 
 
 }
